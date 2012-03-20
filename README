@@ -1,0 +1,2 @@
+MusicOrganize allows you to organize your songs in mp3 directory and playlists.
+Put all your mp3 songs in a directory and write python main.py sourceDir destDir.
